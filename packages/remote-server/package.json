@@ -1,5 +1,5 @@
 {
-  "name": "@veramo/remote-server",
+  "name": "mediator-remote-server",
   "description": "Express.js module that can expose some agent methods and messaging endpoints",
   "version": "5.1.2",
   "main": "build/index.js",
